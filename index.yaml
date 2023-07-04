@@ -3,12 +3,12 @@ entries:
   nginx-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-04-13T17:03:48.016340939+02:00"
+    created: "2023-07-04T15:58:27.34561867+02:00"
     description: A Helm chart for Kubernetes
     digest: 9dc06486acd18a5a6cc6157f6f4111b005070c3d6fac14ed0120a5b78984c441
     name: nginx-chart
     type: application
     urls:
-    - https://gitlab.tech.orange/equipeteam/fluxcd-tuto/nginx-chart-0.1.0.tgz
+    - https://github.com/samuel-OrangeTEAM/HelmRepo/nginx-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-04-13T17:03:48.014525208+02:00"
+generated: "2023-07-04T15:58:27.345096097+02:00"
